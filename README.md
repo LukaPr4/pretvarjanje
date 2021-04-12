@@ -1,2 +1,2 @@
-# pretvarjanje
-Maturitetna naloga - pretvarjanje datotek
+# Pretvarjanje
+Maturitetna naloga - Pretvarjanje datotek
